@@ -152,7 +152,7 @@ p{
 
 .rotate{
 	
-    
+    text-align: center;
 	transform:rotate(0deg);
 	position:static;
 	
