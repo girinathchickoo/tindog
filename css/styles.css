@@ -151,7 +151,9 @@ p{
 @media(max-width:900px){
 
 .rotate{
-	
+
+	margin-left:0;
+	width:6rem;
     text-align: center;
 	transform:rotate(0deg);
 	position:static;
